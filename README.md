@@ -30,6 +30,8 @@ O sistema foi projetado para trazer **disciplina e consistência** às operaçõ
   * Ponto de saída.
   * Stop Loss em pontos.
 
+![Menu Inicial](imagens/p1.png)
+
 ---
 
 ### 2. **Gestão de Posições**
@@ -43,6 +45,8 @@ O sistema foi projetado para trazer **disciplina e consistência** às operaçõ
   * Lucro na segunda saída.
 * Resultado: pontos exatos de saída para cada parcial e alvo final.
 
+![Menu Inicial](imagens/p2.png)
+
 ---
 
 ### 3. **Checklist Pré-Operacional**
@@ -50,12 +54,16 @@ O sistema foi projetado para trazer **disciplina e consistência** às operaçõ
 * Lista de verificações antes de iniciar uma operação (ex.: análise de tendência, volatilidade, agenda econômica, confirmação de setup, limite de risco diário).
 * Ajuda a manter a disciplina e reduzir erros emocionais.
 
+![Menu Inicial](imagens/p3.png)
+
 ---
 
 ### 4. **Stop/Contratos**
 
 * Quadro de referência com a **exposição máxima permitida**.
 * Reforço visual para evitar operações acima do limite de risco.
+
+![Menu Inicial](imagens/p4.png)
 
 ---
 
@@ -69,6 +77,8 @@ O sistema foi projetado para trazer **disciplina e consistência** às operaçõ
   * Taxa de acerto.
   * Ganho médio, perda média.
   * **Lucro líquido acumulado**.
+
+![Menu Inicial](imagens/p5.png)
 
 ---
 
