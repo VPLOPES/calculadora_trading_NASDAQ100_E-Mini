@@ -30,7 +30,7 @@ O sistema foi projetado para trazer **disciplina e consistência** às operaçõ
   * Ponto de saída.
   * Stop Loss em pontos.
 
-![Menu Inicial](imagens/p1.png)
+![Calculadora de Trading](imagens/p1.png)
 
 ---
 
